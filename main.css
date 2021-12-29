@@ -1,0 +1,54 @@
+h1 {
+	margin-top: 50px;
+	text-align: center;
+	color: cyan;
+}
+.form-control {
+	margin: 20px;
+	padding: 10px;
+}
+
+#container {
+	border: #eee solid;
+	text-align: center;
+	background: #eee;
+	margin: 0px 100px 0px 100px;
+}
+
+.form-control {
+	/*margin: 5px;*/
+	padding: 5px 100px 5px 100px;
+}
+.btn {
+	background: #009879;
+	margin: 20px;
+	cursor: pointer;
+	border: none;
+	padding: 15px 160px 15px 160px;
+}
+.btn:hover {
+	background: #1f1;
+}
+.table {
+	border-collapse: collapse;
+	margin: 25px 0px;
+	font-size: 0.9em;
+	min-width: 600px;
+	margin-left: 400px;
+}
+.table thead tr {
+	text-align: left;
+	background: #c0c0c0
+}
+
+.table th {
+	padding: 12px 15px;
+}
+.delete {
+	background: red;
+	color: white
+	
+}
+.delete:hover {
+	background: #800000
+}
